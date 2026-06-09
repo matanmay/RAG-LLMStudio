@@ -118,7 +118,3 @@ DB_PATH          = "./chroma_db"
 ## 🔒 Privacy
 
 All processing happens locally. No API calls are made to external services. Your documents and conversations never leave your machine.
-
-## 📄 License
-
-MIT
