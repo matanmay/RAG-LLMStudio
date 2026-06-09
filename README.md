@@ -19,7 +19,7 @@ A lightweight, fully local Retrieval-Augmented Generation (RAG) system built fro
 
 1. **Clone the repository:**
    ```bash
-   git clone [[https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)](https://github.com/matanmay/RAG-LLMStudio.git)
+   git clone https://github.com/matanmay/RAG-LLMStudio.git
    cd RAG-LLMStudio
 
 ```
